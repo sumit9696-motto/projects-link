@@ -4,3 +4,5 @@
 https://background-changer-taupe-phi.vercel.app/
 # 2. WetherForCast
 https://wetherforcast.vercel.app/
+# 3. Password Generator
+https://passwordgenerator-pi-five.vercel.app/
